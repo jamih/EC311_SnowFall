@@ -38,7 +38,7 @@ module music_tb();
     begin
         clk = 0; 
         #1; 
-        for (i = 0; i < 200; i = i + 1) 
+	for (i = 0; i < 200; i = i + 1) // To test all the addresses in the ROM that we're using to produce a note
         begin
             address = i; 
             #5; 
