@@ -3,7 +3,7 @@
 // Company: 
 // Engineer: 
 // 
-// Create Date: 11/23/2020 11:08:29 AM
+// Create Date: 10/21/2020 11:42:58 AM
 // Design Name: 
 // Module Name: vga640x480
 // Project Name: 
@@ -21,8 +21,7 @@
 
 
 module vga640x480(
-
-input wire i_clk,           // base clock
+    input wire i_clk,           // base clock
     input wire i_pix_stb,       // pixel clock strobe
     input wire i_rst,           // reset: restarts frame
     output wire o_hs,           // horizontal sync
@@ -75,5 +74,3 @@ input wire i_clk,           // base clock
         end
     end
 endmodule
-
-
