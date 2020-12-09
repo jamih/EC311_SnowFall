@@ -1,4 +1,4 @@
-# EC311_BrickBreaker
+# EC311_SnowFall
 EC311 Final Project
 
 Our project is called "Snowfall". 
