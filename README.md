@@ -15,6 +15,9 @@ Constraints - contains project constraints file for Nexys 4 Artix-7
 The PS2Receiver.v and debouncer.v files were taken from:
 https://github.com/Digilent/Nexys4DDR.git 
 
+Aspects of music modules were taken from:
+https://www.fpga4fun.com/MusicBox4.html
+
 
 Overview of the Project: 
 
