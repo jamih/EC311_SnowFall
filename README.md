@@ -4,7 +4,7 @@ EC311 Final Project
 Our project is called "Snowfall". 
 Our team members are:
 Luca Guidi 
-Jami Huang (U38052606)
+Jami Huang 
 Nicole Kwon
 Bryan Jaimes
 
